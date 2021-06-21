@@ -1,0 +1,7 @@
+*.dll
+*.ttf
+*.a
+*.la
+bin/
+obj/
+include/
